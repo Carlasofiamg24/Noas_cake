@@ -1,0 +1,34 @@
+
+.informacion{
+    display: inline-block;
+}
+
+li{
+    list-style-type: none;
+    color: white;
+        a{
+        text-decoration: none;
+        color: white;
+    }
+}
+
+.nav_stilo{
+    margin-left: 50px;
+    li{
+        a{
+            color: $info;
+        }
+    }
+}
+
+.titulo_footer{
+    margin-left: 20px;
+}
+
+.footer2{
+    p{
+        font-size: 15px;
+        color: white;
+        margin-top:15px;
+    }
+}

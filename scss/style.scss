@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+$primary: #ee7182;
+$info: #f73a53;
+$bg_1:rgb(247, 0, 144);
+
+@import "../bootstrap/scss/bootstrap";
+@import "estructura";
+@import "multimedia";
+@import "colores";
+@import "tipografia";
